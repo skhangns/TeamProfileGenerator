@@ -7,12 +7,12 @@ describe("Engineer", () => {
   const email = "Mzepeda@techcompany.com";
   const gitHubUsername = "Mzepeda";
   const role = "Engineer";
-  const returnedGitHub = `<a href="https://github.com/${gitHubUsername}">https://github.com/${gitHubUsername}</a>`;
+  const returnedGitHub = `YourUsername`;
 
   const testEngineer = new Engineer(name, id, email, gitHubUsername);
 
   it("Should return github linked account", () => {
-    expect(testEngineer.getGithub()).toBe(returnedGitHub);
+    expect(testEngineer.getGithub()).toBe(gitHubUsername);
   });
 
   it("Should return the Engineer name when requested", () => {
