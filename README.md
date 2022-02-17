@@ -2,6 +2,7 @@ https://skhangns.github.io/TeamProfileGenerator/
 
 https://drive.google.com/file/d/1SNicJxT9uaLqkBWqtx8-svfUPuA30beo/view
 
+<img width="1507" alt="TeamProfileGenScreenshot" src="https://user-images.githubusercontent.com/80996160/154390791-61bf94e7-ce67-47aa-8cf1-409fdcac6111.png">
 
 # TeamProfileGenerator
 
